@@ -9,9 +9,15 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 48px;
     font-family:'Courier New', Courier, monospace;
     background-color: black;
     opacity: 0.5;
     color: black;
+}
+
+.header h1 {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
 }
