@@ -1,7 +1,15 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    background: #d9dcd6;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax {
+    min-height: 500px;
+    background: transparent;
 }
 
 /* HERO div with background img */
